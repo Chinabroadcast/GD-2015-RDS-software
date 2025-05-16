@@ -1,4 +1,4 @@
-# GD-2015 RDS Software by ChinaBroadcast
+# GD-2015 RDS Control Software by ChinaBroadcast
 
 Welcome to the **GD-2015 RDS Control Software** repository! This package contains all the essential software components to operate your GD-2015 RDS device developed by **ChinaBroadcast**.
 
@@ -11,7 +11,7 @@ The ZIP archive includes **three main files**:
 1. **USB to Serial Port Driver**  
    Enables your computer to communicate with the GD-2015 device through a USB connection.  
 
-2. **WXSZ SDR Control Software**  
+2. **WXSZ RDS CONTROAL Software**  
    The main software used to control and configure the GD-2015 RDS hardware.  
 
 3. **Microsoft .NET Framework 3.5**  
